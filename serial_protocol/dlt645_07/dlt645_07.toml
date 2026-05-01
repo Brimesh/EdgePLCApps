@@ -1,0 +1,10 @@
+[global]
+version = "0.0.1"
+pn = "GY-RGL2"
+encoding = "UTF-8"
+
+[[prog]]
+file_name = "Main.b"
+
+[[prog]]
+file_name = "lib_dlt645_07.c"
